@@ -1,0 +1,4 @@
+interface:
+  display_name: "Query Market Data"
+  short_description: "Query documented market_data ClickHouse tables"
+  default_prompt: "Use $query-market-data to inspect schemas and query the documented market_data tables."
